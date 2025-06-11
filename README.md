@@ -1,4 +1,6 @@
 # Hi, I'm Zulfa! 👋
+I’m a Physics graduate with a strong curiosity for data and its impact on real-world decisions.  
+Currently on a career switch journey into **Data Analytics**, I'm passionate about transforming data into insights through clean visuals and meaningful storytelling.
 
 🎓 Physics graduate transitioning into **Data Analytics**   
 📚 Currently learning Python, SQL, and Business Intelligence tools  
